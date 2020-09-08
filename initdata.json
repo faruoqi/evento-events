@@ -1,0 +1,21 @@
+{
+  "id": "EV-001",
+  "name": "Konser Musik",
+  "duration": 3,
+  "start_date": 20200925,
+  "end_date": 20200925,
+  "location": {
+    "name" : "GBK",
+    "address": "Senayan",
+    "country": "Indonesia",
+    "open_time": 10,
+    "close_time": 23,
+    "halls": [
+      {
+        "name": "Stadion Utama",
+        "location": "main hall",
+        "capacity": 3000
+      }
+    ]
+  }
+}
